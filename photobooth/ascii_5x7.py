@@ -1,5 +1,5 @@
 from numpy import *
-import PIL.Image as Im
+import Image as Im
 
 ## ASCII_5x7
 ASCII_5x7 = [[

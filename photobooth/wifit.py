@@ -11,7 +11,7 @@ import Tkinter
 import tkFileDialog
 import Image, ImageTk
 import ImageEnhance
-import PIL.ImageOps
+import ImageOps
 import struct
 import os.path
 import subprocess

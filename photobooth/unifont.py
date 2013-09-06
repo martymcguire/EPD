@@ -1,4 +1,4 @@
-import PIL.Image as Im
+import Image as Im
 from numpy import *
 import struct
 
